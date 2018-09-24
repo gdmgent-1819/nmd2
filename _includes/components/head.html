@@ -1,0 +1,15 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ page.title | strip_html }} | {{ site.title }}</title>
+    {% seo title=false %}
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//code.jquery.com">
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/{{ site.data.cdn.fontawesome }}/css/font-awesome.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ '/css/bootstrap.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">{% if (page.mathjax == 'enabled') %}
+{% include components/mathjax.html %}{% endif %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/{{ site.data.cdn.d3 }}/d3.min.js" crossorigin="anonymous"></script>
+</head>

@@ -1,0 +1,16 @@
+{% if page.url == '/' %}
+<img src="{{ '/images/logo_ahs_en.svg' | relative_url }}" width="100%">
+{% else %}
+<aside>
+    <ul class="nav nav-pills nav-stacked" style="font-size: .5em;">
+    {% for node in nodes %}{% assign node_level = node.path | remove: 'pages/' | split: '_' | first | split: '-' %}
+    {% if node_level[0] == page_level[0] %}
+        <li class="nav-item"><a class="nav-link{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">
+            {% if node_level[1] == '0' and node_level[2] == '0' %}<h1 class="h5">{{ node.title }}</h1>{% endif %}
+            {% if node_level[1] != '0' and node_level[2] == '0' %}<h2 class="h6">{{ node.title }}</h2>{% endif %}
+            {% if node_level[1] != '0' and node_level[2] != '0' %}<h3 class="h6 pl-2">{{ node.title }}</h3>{% endif %}
+        </a></li>{% endif %}
+    {% endfor %}
+    </ul>
+</aside>
+{% endif %}

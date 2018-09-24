@@ -1,0 +1,16 @@
+/*  Definiëring van de animatie d.m.v. 2 of meer percentages. 0% is het begin van de animatie, 100% is het einde */
+@keyframes autoRijden{
+  0%{
+    left:150px;
+  }
+  100%{
+    left:650px;
+  }
+}
+/*  Koppelen van de animatie aan een klasse */
+.animatie-auto{
+  animation-name: autoRijden;
+  animation-duration: 4s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode:forwards;
+}

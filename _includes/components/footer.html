@@ -1,0 +1,6 @@
+<footer class="footer bg-{{ site.colour }} p-1">
+    <div class="container">
+        <p>&copy; {{ site.data.syllabus.copyright.year }} {% if site.language == 'nl' %}{{ site.data.syllabus.copyright.institute.nl }}{% else %}{{ site.data.syllabus.copyright.institute.en }}{% endif %}
+            <span class="float-sm-right">{% if site.language == 'nl' %}Geüpdatet op{% else %}Updated on{% endif %} <span class="label label-info">{{ site.time | date_to_long_string }}</span></span></p>
+    </div>
+</footer>

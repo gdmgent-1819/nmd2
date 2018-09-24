@@ -1,0 +1,22 @@
+<section class="timeline">
+    {% for point in include.timeline %}
+    <article class="timeline__point{% if point.type %}{{ point.type | prepend: ' timeline__point--'}}{% endif %}">
+        {% if point.icon %}
+        <div class="timeline__icon"><i class="fa fa-{{ point.icon }}"></i></div>
+        {% endif %}
+        {% if point.chamilo or point.milestone or point.content %}
+        <div class="timeline__content"{% if point.date %} data-date="{{ point.date }}"{% endif %}{% if point.week %} data-week="{{ point.week }}"{% endif %}>
+        {% if point.chamilo %}
+            <h1><a href="https://chamilo.arteveldehs.be/index.php?application=weblcms&course={{ site.data.syllabus.course.chamilo_id }}&tool=document&go=course_viewer">Uurrooster</a> <small>{{ article.chamilo }} bekend op Chamilo</small></h1>
+        {% endif %}
+        {% if point.milestone %}
+            <h1><a href="{{ point.milestone.uri | relative_url }}">{{ point.milestone.label }}</a><br><small>{{ point.milestone.small }}</small></h1>
+        {% endif %}
+        {% if point.content %}
+            {{ point.content | markdownify }}
+        {% endif %}
+        </div>
+        {% endif %}
+    </article>
+    {% endfor %}
+</section>
