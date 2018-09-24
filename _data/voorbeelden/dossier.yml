@@ -1,0 +1,29 @@
+front:
+ - smallurl: "https://studentarteveldehsbe-my.sharepoint.com/personal/olivpa_arteveldehs_be/_layouts/15/guestaccess.aspx?guestaccesstoken=VU4cuGlW2kk%2fsNjDdBS95cQFk5ForRbQkG1r6Ru%2bsNg%3d&docid=0627adde6c5ea434197bd08d0901da9e7"
+   url: "https://studentarteveldehsbe-my.sharepoint.com/personal/olivpa_arteveldehs_be/_layouts/15/guestaccess.aspx?guestaccesstoken=VU4cuGlW2kk%2fsNjDdBS95cQFk5ForRbQkG1r6Ru%2bsNg%3d&docid=0627adde6c5ea434197bd08d0901da9e7"
+ - smallurl: "https://studentarteveldehsbe-my.sharepoint.com/personal/olivpa_arteveldehs_be/_layouts/15/guestaccess.aspx?guestaccesstoken=CYwTGo8C%2fK1yy1ddaa%2fQDcadOK9kUmmqDxUEy7vnGMk%3d&docid=0fb5cbf834323454f97680530c3985bc6"
+   url: "https://studentarteveldehsbe-my.sharepoint.com/personal/olivpa_arteveldehs_be/_layouts/15/guestaccess.aspx?guestaccesstoken=CYwTGo8C%2fK1yy1ddaa%2fQDcadOK9kUmmqDxUEy7vnGMk%3d&docid=0fb5cbf834323454f97680530c3985bc6"
+ 
+personas:
+ internal:
+  - smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier6_small.png"
+    url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier6.png"
+  - smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier7_small.png"
+    url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier7.png"
+  - smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier8_small.png"
+    url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier8.png"
+  - smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier14_small.png"
+    url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/dossier14.png"
+ external:
+  - smallurl: "https://www.zionandzion.com/wordpress/wp-content/uploads/2014/05/persona-for-website.jpg"
+    url: "https://www.zionandzion.com/wordpress/wp-content/uploads/2014/05/persona-for-website.jpg"
+  - smallurl: "http://www.systemsalliance.com/sebin/j/z/know%20your%20audience.png"
+    url: "http://www.systemsalliance.com/sebin/j/z/know%20your%20audience.png"
+  - smallurl: "http://www.copperdigital.co.uk/wp-content/uploads/2014/12/Persona-Profile1-1024x574.png"
+    url: "http://www.copperdigital.co.uk/wp-content/uploads/2014/12/Persona-Profile1-1024x574.png"
+  - smallurl: "http://kbvisual.com/images/page/john_stanley.jpg"
+    url: "http://kbvisual.com/images/page/john_stanley.jpg"
+  - smallurl: "https://s-media-cache-ak0.pinimg.com/736x/89/d6/91/89d691cd941496be1b4c2198b83db380.jpg"
+    url: "https://s-media-cache-ak0.pinimg.com/736x/89/d6/91/89d691cd941496be1b4c2198b83db380.jpg"
+  - smallurl: "https://s-media-cache-ak0.pinimg.com/736x/9b/28/fe/9b28feb9ae23e211aa3b53e5ca6ae1be.jpg"
+    url: "https://s-media-cache-ak0.pinimg.com/736x/9b/28/fe/9b28feb9ae23e211aa3b53e5ca6ae1be.jpg"

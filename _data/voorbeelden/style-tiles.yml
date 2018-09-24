@@ -1,0 +1,15 @@
+internal:
+ - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/styles1.png"
+   smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/styles1_small.png"
+ - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/styles2.png"
+   smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/styles2_small.png"
+ - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/styles3.png"
+   smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/styles3_small.png"
+
+external:
+  - url: "http://styletil.es/img/example_1_1_fullsize.jpg"
+    smallurl: "http://styletil.es/img/example_1_1_fullsize.jpg"
+  - url: "http://styletil.es/img/example_1_2_fullsize.jpg"
+    smallurl: "http://styletil.es/img/example_1_2_fullsize.jpg"
+  - url: "http://styletil.es/img/example_1_3_fullsize.jpg"
+    smallurl: "http://styletil.es/img/example_1_3_fullsize.jpg"

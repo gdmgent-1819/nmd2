@@ -1,0 +1,7 @@
+internal:
+ - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/moodboard1.png"
+   smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/moodboard1_small.png"
+ - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/moodboard2.png"
+   smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/moodboard2_small.png"
+ - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/moodboard3.png"
+   smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/moodboard3_small.png"

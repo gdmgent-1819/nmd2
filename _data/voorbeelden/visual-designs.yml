@@ -1,0 +1,31 @@
+internal:
+
+ mobile:
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs4.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs4_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs5.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs5_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs6.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs6_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs8.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs8_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs9.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs9_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs15.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs15_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs16.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs16_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs33_small.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs33_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs36_small.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs36_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs38_small.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs38_small.png"
+  
+ desktop:
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs30.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs30_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs28.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs28_small.png"
+  - url: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs29.png"
+    smallurl: "http://www.arteveldehogeschool.be/campusGDM/wanm/mod_wanm/workflow/designs29_small.png"
