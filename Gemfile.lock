@@ -247,7 +247,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (>= 142)
+  github-pages
 
 BUNDLED WITH
    1.16.1
