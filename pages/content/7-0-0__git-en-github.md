@@ -79,6 +79,6 @@ GitHub Pages instellen
 
 > GitHub
 > ---
-> Ga naar je repository en open de instellingen.  
+> Ga naar je repository op [GitHub][] en open de instellingen.  
 > <kbd class="menu"><kbd>Settings</kbd>&#9656;<kbd>GitHub Pages</kbd>&#9656;<kbd>Source</kbd></kbd> moet op `Master Branch` staan 
 {:.card.card-github}
