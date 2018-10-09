@@ -16,8 +16,7 @@ title: Git & GitHub
 GitHub Classroom
 ----------------
 
-Klik op de *GitHub Classroom*-koppeling die je gekregen hebt, zodat er een nieuwe repository aangemaakt wordt voor jou. Deze repository ga je dan eerst klonen.
-
+Klik op de *GitHub Classroom*-koppeling die je gekregen hebt, zodat er voor jou een nieuwe Git-**repository** op [GitHub][] aangemaakt wordt. Deze repository ga je dan eerst klonen op de **lokale computer** (je eigen computer).
 
 Repository Klonen
 -----------------
