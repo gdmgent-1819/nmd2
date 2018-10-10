@@ -18,7 +18,7 @@ Wat is een wireframe?
 
 > Definitie
 > ---
-> Een **wireframe** is een ontwerp met lage weergavegetrouwheid *(Eng.: low fidelity)* van (een toestand van) een **view** (van een website, mobile app, wearable) dat toont waar de **inhoud** en **functionaliteiten** komen.
+> Een **wireframe** is een draadmodelweergave van (een toestand van) een **view** van een website (of mobile app, wearable, ...) dat toont waar de **inhoud**, **basisstructuur** en **functionaliteiten** komen. 
 {:.card.card-definition}
 
 Wie maakt wireframes?
