@@ -1,7 +1,7 @@
 ---
 layout   : course
 permalink: jekyll/
-published: false
+published: true
 #
 abbreviations:
   - computer
