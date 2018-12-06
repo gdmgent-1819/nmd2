@@ -1,6 +1,20 @@
 # --------------
 # DO NOT MODIFY!
 # --------------
+- id: 1819-BS
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: FunGDM-BS
+    long : Besturingssystemen
+  academic-year: 2018-2019
+  authors: # First is owner
+    - OPR
+  programme:
+    institute : AHS
+    department: PBAGDM
+
 - id: 1819-NMD2
   type: MODULE
   lang: nl
